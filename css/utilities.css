@@ -33,13 +33,13 @@ a.icon-link:hover {
   justify-content: space-between;
   align-items: center;
   position: fixed;
+  background-color: white;
   top: 0;
   left: 0;
 }
 
 .nav-title-link {
   color: black;
-  background-color: white;
   text-decoration: none;
 }
 
